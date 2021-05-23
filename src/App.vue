@@ -6,6 +6,7 @@
         {{ message }}
       </div>
     </div>
+    <div></div>
     <TodoList></TodoList>
   </div>
 </template>
